@@ -6,7 +6,7 @@ class app extends Component {
 
     render() {
         return (
-            <Header />
+            <Header headerText={'PhilanTrophy'} />
         )
     }
 
